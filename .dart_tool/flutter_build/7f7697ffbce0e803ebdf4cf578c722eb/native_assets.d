@@ -1,0 +1,1 @@
+ /home/iguanya/AndroidStudioProjects/iguanya/.dart_tool/flutter_build/7f7697ffbce0e803ebdf4cf578c722eb/native_assets.yaml: 
